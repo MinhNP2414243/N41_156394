@@ -6,6 +6,7 @@ Hướng dẫn chơi game:
 - Tải phần mềm ide để complie được code python
 - Mở terminal và cd đến địa chỉ code bạn vừa tải
   - Ví dụ : cd C:/Download/*tên địa chỉ file bạn tải xuống
+- Gõ lệnh "pip install pygame" để tải thư viện pygame
 - Gõ lệnh: "python main.py"
 - Bắt đầu chơi game
 - Sử dụng 4 phím di chuyển trên bàn phím để di chuyển nhân vật
